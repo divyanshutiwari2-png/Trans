@@ -286,7 +286,3 @@ gradle :app:testDebugUnitTest
 ```
 
 ---
-
-## 🔒 Security Notice
-
-> **Security Warning**: I have included your API keys in the generated APK file for this prototype. Please be aware that Android APKs can be easily decompiled, and these keys can be extracted by anyone who has access to the file. **Do not share this APK file publicly or with unauthorized individuals** to prevent potential misuse.
