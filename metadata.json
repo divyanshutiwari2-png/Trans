@@ -1,0 +1,6 @@
+{
+  "name": "VoxTravel",
+  "description": "Live conversational voice translator and travel companion powered by Gemini 3.8 Live API for real-time bidirectional conversations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
